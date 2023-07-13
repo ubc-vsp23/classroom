@@ -1,0 +1,21 @@
+# Building Modern Web Applications
+
+* [Lectures](./lectures) - for lecture slides and notes
+    1. [Introduction](./lectures/lecture-0.pdf)
+    2. [HTTP, HTML, and CSS](./lectures/lecture-1.pdf)
+    3. [JavaScript Basics](./lectures/lecture-2.pdf)
+    4. [DOM and Events (Part 1)](./lectures/lecture-3.1.pdf)
+    5. [DOM and Events (Part 2)](./lectures/lecture-3.2.pdf)
+    6. [Callback and Closure](./lectures/lecture-4.pdf)
+    7. [ECMAScript 2015 (ES6)](./lectures/lecture-6.1.pdf)
+    8. [Promise](./lectures/lecture-6.2.pdf)
+    9. [AJAX and REST API](./lectures/lecture-7.pdf)
+    10. [NodeJS: Server-side JS](./lectures/lecture-8.pdf)
+* [Tutorials](https://github.com/ubc-vsp22/classroom/tree/master/karthik/tutorials) - additional tutorials that might be useful
+    * [Setting up Git](https://github.com/ubc-vsp22/classroom/blob/master/tutorials/git-setup.md)
+* [Assignment Group Registration](/#) - submit your groups here
+* [Assignments](./assignments) - assignments will be released here
+    1. [Assignment 1](./assignments/assignment-1) - Due 11:59PM Monday, July 24, 2023
+    2. [Assignment 2](./assignments/assignment-2) - Due 11:59PM Wednesday, July 26, 2023
+    3. [Assignment 3](./assignments/assignment-3) - Due 11:59PM Tuesday, August 1, 2023
+    4. [Assignment 4](./assignments/assignment-4) - Due 11:59PM Friday, August 4, 2023

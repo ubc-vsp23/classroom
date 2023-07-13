@@ -1,0 +1,3 @@
+**/node_modules/**
+/instructor-use/**
+**/.DS_store
