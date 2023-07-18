@@ -15,7 +15,7 @@ We will use a [**Slack** workspace](https://ubc-vsp23.slack.com) for all discuss
 
 _Use this Slack workspace to ask and answer questions about lectures, assignment, and anything related to the courses._
 
-* Follow [this link](/#) to join the Slack workspace.
+* Follow [this link](https://join.slack.com/t/ubc-vsp23/shared_invite/zt-1yyrk1znp-BcPNBCrtT~e4Ir_MSswMTg) to join the Slack workspace.
 
 ## Schedule
 

@@ -11,9 +11,9 @@
     8. [Promise](./lectures/lecture-6.2.pdf)
     9. [AJAX and REST API](./lectures/lecture-7.pdf)
     10. [NodeJS: Server-side JS](./lectures/lecture-8.pdf)
-* [Tutorials](https://github.com/ubc-vsp22/classroom/tree/master/karthik/tutorials) - additional tutorials that might be useful
-    * [Setting up Git](https://github.com/ubc-vsp22/classroom/blob/master/tutorials/git-setup.md)
-* [Assignment Group Registration](/#) - submit your groups here
+* [Tutorials](https://github.com/ubc-vsp23/classroom/tree/master/karthik/tutorials) - additional tutorials that might be useful
+    * [Setting up Git](https://github.com/ubc-vsp23/classroom/blob/master/tutorials/git-setup.md)
+* [Assignment Group Registration](https://forms.gle/GBJfRiSKEn1jXa7UA) - submit your groups here
 * [Assignments](./assignments) - assignments will be released here
     1. [Assignment 1](./assignments/assignment-1) - Due 11:59PM Monday, July 24, 2023
     2. [Assignment 2](./assignments/assignment-2) - Due 11:59PM Wednesday, July 26, 2023
