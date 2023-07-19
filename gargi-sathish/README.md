@@ -5,7 +5,7 @@
 > This is a preliminary sequence and the instructors may change topics depending on progress and pace.
 
 - (July 18) Introduction
-- (July 18) Stable Marriages
+- (July 18) Stable Marriages [ [slides](https://docs.google.com/presentation/d/1YvJ7-r0ABGU8POBdU1feHQngT1RjnJO-8Y7yESPRUJk/edit?usp=sharing) | [video](https://www.loom.com/share/d8bb069e43464ef9b86c3a9cb5e4bb6a?sid=a6244cba-2e1d-4786-bd73-5f3ea865955c) ]
 - (July 20) Asymptotic Analysis of Algorithms
 - (July 21) Sorting and Searching
 - (July 24) Primality Testing and Cryptography
