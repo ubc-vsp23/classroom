@@ -5,7 +5,7 @@
 > This is a preliminary sequence and the instructors may change topics depending on progress and pace.
 
 - (July 18) Introduction
-- (July 18) Stable Marriages [ [slides](https://docs.google.com/presentation/d/1YvJ7-r0ABGU8POBdU1feHQngT1RjnJO-8Y7yESPRUJk/edit?usp=sharing) | [video](https://www.loom.com/share/d8bb069e43464ef9b86c3a9cb5e4bb6a?sid=a6244cba-2e1d-4786-bd73-5f3ea865955c) ]
+- (July 18) Stable Marriages [ [slides](https://docs.google.com/presentation/d/1YvJ7-r0ABGU8POBdU1feHQngT1RjnJO-8Y7yESPRUJk/edit?usp=sharing) | [video](https://www.loom.com/share/d8bb069e43464ef9b86c3a9cb5e4bb6a?sid=a6244cba-2e1d-4786-bd73-5f3ea865955c) | [practice problems and solutions](https://drive.google.com/file/d/1Fh0jf6oQTzwTUktCuBOEkKPack9fISHX/view?usp=sharing) ]
 - (July 20) Asymptotic Analysis of Algorithms
 - (July 21) Sorting and Searching
 - (July 24) Primality Testing and Cryptography
@@ -16,7 +16,7 @@
 - (July 31) More about Graphs
 - (August 1) Dynamic Programming
 - (August 2) Dynamic Programming
-- (August 3) Recent Topics 
+- (August 3) Recent Topics
 - (August 4) Exam 2 - Part 1 (with some group work)
 - (August 8) Exam 2 - Part 2 (group presentations)
 
@@ -51,7 +51,7 @@ Assessment will be based on the following activities:
     - (E2P2) In Part 2, two groups will work together to implement a solution (in JavaScript) after comparing their approaches. They will then present their work with a demo and a discussion of lessons learnt.
 
 | Type of Assessment | Weight |
-| ------------------ | :-------: | 
-| E1 | 40% | 
+| ------------------ | :-------: |
+| E1 | 40% |
 | E2P1 | 30% |
 | E2P2 | 30% |
