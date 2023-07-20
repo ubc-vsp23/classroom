@@ -6,12 +6,12 @@
 
 You will find lecture materials and assignments for the courses:
 
-* [Algorithms](/sathish) - taught by Sathish Gopalakrishnan
+* [Algorithms](/gargi-sathish) - taught by Sathish Gopalakrishnan
 * [Building Modern Web Applications](/karthik) - taught by Karthik Pattabiraman
 
 ## Discussions
 
-We will use a [**Slack** workspace](https://ubc-vsp23.slack.com) for all discussions related to this VSP package. 
+We will use a [**Slack** workspace](https://ubc-vsp23.slack.com) for all discussions related to this VSP package.
 
 _Use this Slack workspace to ask and answer questions about lectures, assignment, and anything related to the courses._
 
