@@ -93,4 +93,4 @@ node index.js
 
 ## Submission Instructions
 - For each assignment, create a branch called assignment-, for ex: assignment-1, assignment-2, etc. **For this assignment, your branch name should be assignment-1.**
-- Make sure you push your changes to that branch before midnight (11:59 PM) of the date of the assignment deadline (**July 23, 2023 11:59 PM**).
+- Make sure you push your changes to that branch before midnight (11:59 PM) of the date of the assignment deadline (**July 24, 2023 11:59 PM**).
