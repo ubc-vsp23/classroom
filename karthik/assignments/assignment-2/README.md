@@ -4,7 +4,7 @@
 
 This assignment is a continuation from Assignment 1.
 
-In this assignment, you will make the web app responsive. That is, the app will be optimized for viewing across multiple devices and screen sizes. For this assignment, and some future ones, you will use the [`PhotoGalleryLib`](PhotoGalleryLib.js) library provided by us, which includes a lot of helpful functions (this file will be at `public/libs/` folder in your repository already). The documentation and some examples of how to use this library can be found [here](PhotoGalleryLib.md).
+In this assignment, you will make the web app responsive. That is, the app will be optimized for viewing across multiple devices and screen sizes. For this assignment, and some future ones, you will use the [`PhotoGalleryLib`](PhotoGalleryLib.js) library provided by us, which includes a lot of helpful functions (this file will be at `public/libs/` folder in your repository already). The documentation and some examples of how to use this library can be found [here](PhotoGalleryLib.md). You should use the functions provided in the [`PhotoGalleryLib`](PhotoGalleryLib.js) library, but you *should not modify* the library code itself.
 
 ## Tasks
 
