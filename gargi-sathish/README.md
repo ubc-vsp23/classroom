@@ -8,7 +8,7 @@
 - (July 18) Stable Marriages [ [slides](https://docs.google.com/presentation/d/1YvJ7-r0ABGU8POBdU1feHQngT1RjnJO-8Y7yESPRUJk/edit?usp=sharing) | [video](https://www.loom.com/share/d8bb069e43464ef9b86c3a9cb5e4bb6a?sid=a6244cba-2e1d-4786-bd73-5f3ea865955c) | [practice problems and solutions](https://drive.google.com/file/d/1Fh0jf6oQTzwTUktCuBOEkKPack9fISHX/view?usp=sharing) ]
 - (July 20) Asymptotic Analysis of Algorithms [ [slides](https://drive.google.com/file/d/1TOeCYX8L3EDBNPLCwy2zpEvObjSwXJJO/view?usp=sharing) | [practice problems and solutions](https://drive.google.com/file/d/1Y18wfDjfFwTZWFsoAKH86nTs0dd-J_P5/view?usp=sharing) ]
 - (July 21) Searching [ [slides](https://drive.google.com/file/d/1NNMajrnBWY8PEkxaOf0m787eYxgR9mMk/view?usp=sharing) ]
-- (July 24) Sorting [ [slides](https://drive.google.com/file/d/1eXYu1sdnwRdRWeQf95hJ4O3y1p7POFRg/view?usp=sharing) ]
+- (July 24) Sorting [ [slides](https://drive.google.com/file/d/1eXYu1sdnwRdRWeQf95hJ4O3y1p7POFRg/view?usp=sharing) | [practice problems and solutions](https://drive.google.com/file/d/1YqyD-OsrvRhDZLxM5gcRnzGge0rpq0BQ/view?usp=sharing) ]
 - (July 25) Greedy Algorithms [ [slides](https://drive.google.com/file/d/1ftwhXnCmJSfUkkmuUQp3_OdoO1NOn87T/view?usp=sharing) ]
 - (July 26) Introduction to Graphs
 - (July 27) The PageRank Algorithm (as an application of graphs)
