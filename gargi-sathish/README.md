@@ -13,7 +13,7 @@
 - (July 26) Introduction to Graphs [ slides: [introduction to graphs](https://docs.google.com/presentation/d/1QIPIK27BkbgFOmRtiFSeTsb6jd8xfbY7JDI2sRIeQ30/edit?usp=sharing), [minimum spanning trees + shortest paths](https://docs.google.com/presentation/d/1TxnaAP83luUpNwmi8kKeHZaj9x494WYge5Rti8jCHJM/edit?usp=sharing), [demo - shortest paths](https://docs.google.com/presentation/d/1q44keCcm1kyOvIYZSbi-rkNL0bMGFfAY602QHhftIzc/edit?usp=sharing); practice problems: [1](https://docs.google.com/presentation/d/1-7QAQ4Vk-vl-31RYiQA0N3PDqkQBpoqxR_72jNovZ_o/edit?usp=sharing), [2](https://drive.google.com/file/d/10_rFw3-aInCQEqrNNUoPL1eF5CIb87aQ/view?usp=sharing) ]
 - (July 27) The PageRank Algorithm (as an application of graphs) [ [slides](https://drive.google.com/file/d/1TGCedXSH_z8kjHD74soGa-hJQMcq22kv/view?usp=sharing)]
 - (July 28) Exam 1 (Stable Marriages to Graphs) [[Tips on writing solutions](https://drive.google.com/file/d/1TJcxM_zhRHasOsdQti7hFvHTWXaF_jb3/view?usp=sharing)]
-- (July 31) More about Graphs
+- (July 31) [More about Graphs](https://github.com/ubc-vsp23/classroom); [practice problems](https://drive.google.com/file/d/10wLvrKzrJLhKu1H_b8TNic_drGHxnYvN/view?usp=sharing)
 - (August 1) Dynamic Programming
 - (August 2) Dynamic Programming
 - (August 3) Recent Topics
