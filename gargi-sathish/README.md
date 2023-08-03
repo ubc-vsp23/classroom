@@ -15,7 +15,7 @@
 - (July 28) Exam 1 (Stable Marriages to Graphs) [ [Tips on writing solutions](https://drive.google.com/file/d/1TJcxM_zhRHasOsdQti7hFvHTWXaF_jb3/view?usp=sharing) ]
 - (July 31) More about Graphs [ [slides](https://docs.google.com/presentation/d/177WSAs0FQC0iufb2eSOZzoXjpC51FeMc5o065Yj5zkw/edit?usp=sharing) | [practice problems](https://drive.google.com/file/d/10wLvrKzrJLhKu1H_b8TNic_drGHxnYvN/view?usp=sharing) ]
 - (August 1) Dynamic Programming [ [slides](https://drive.google.com/file/d/1pUdtt08TxnCs9gbpO4QmvqCudlEkioVS/view?usp=sharing) | [practice problems](https://drive.google.com/file/d/1uS6Z8HBRKMNAs97pV-YNktQ0AYFsVoNI/view?usp=sharing) ]
-- (August 2) Algorithms and Social Media [[slides](https://drive.google.com/file/d/1Mo2WtJp9QosjZcPqxmoe0TYm4X45MhPG/view?usp=sharing) ]
+- (August 2) Algorithms and Social Media [ [slides](https://drive.google.com/file/d/1Mo2WtJp9QosjZcPqxmoe0TYm4X45MhPG/view?usp=sharing) ]
 - (August 3) **Multiple Topics**
 	- [Multi-Armed Bandits](https://drive.google.com/file/d/1_F09EQD3H4Y1k1oOismjgh8El4MIrQYB/view?usp=sharing)
 	- [Primality Testing](https://drive.google.com/file/d/1qNbrxcOSul0C50MDgKMTLU05XfPabn9A/view?usp=sharing) and [Cryptography](https://drive.google.com/file/d/1q1Q20tyxsWZATfQg8acwP2DI6CTKzlrm/view?usp=sharing)
