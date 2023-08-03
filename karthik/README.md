@@ -9,8 +9,7 @@
     6. [DOM and Events (Part 2)](./lectures/lecture-4.2.pdf)
     7. [AJAX and REST API](./lectures/lecture-5.pdf)
     8. [ECMAScript 2015 (ES6)](./lectures/lecture-6.pdf)
-    9. [Promise](./lectures/lecture-6.2.pdf)
-    10. [NodeJS: Server-side JS](./lectures/lecture-8.pdf)
+    9. [Promise](./lectures/lecture-7.pdf)
 * [Tutorials](./tutorials) - additional tutorials that might be useful
     * [Setting up Git](./tutorials/git-setup.md)
 * [Assignment Group Registration](https://forms.gle/GBJfRiSKEn1jXa7UA) - submit your groups here
