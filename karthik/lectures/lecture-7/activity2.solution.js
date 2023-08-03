@@ -22,6 +22,6 @@ var fn = function(i) {
 
 var fp = invoke( fn, 10, 1000);
 
-fp.then("All promises resolved");
+fp.then( () => console.log("All promises resolved") );
 console.log("Done setting up promises");
 
