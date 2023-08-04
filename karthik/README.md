@@ -10,6 +10,7 @@
     7. [AJAX and REST API](./lectures/lecture-5.pdf)
     8. [ECMAScript 2015 (ES6)](./lectures/lecture-6.pdf)
     9. [Promise](./lectures/lecture-7.pdf)
+    10. [Review](./lectures/Review.pdf)
 * [Tutorials](./tutorials) - additional tutorials that might be useful
     * [Setting up Git](./tutorials/git-setup.md)
 * [Assignment Group Registration](https://forms.gle/GBJfRiSKEn1jXa7UA) - submit your groups here
